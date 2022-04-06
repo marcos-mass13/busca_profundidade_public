@@ -1,0 +1,15 @@
+/home/marcos/Documentos/ia/projeto/bin/Debug/net6.0/projeto
+/home/marcos/Documentos/ia/projeto/bin/Debug/net6.0/projeto.deps.json
+/home/marcos/Documentos/ia/projeto/bin/Debug/net6.0/projeto.runtimeconfig.json
+/home/marcos/Documentos/ia/projeto/bin/Debug/net6.0/projeto.dll
+/home/marcos/Documentos/ia/projeto/bin/Debug/net6.0/projeto.pdb
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.csproj.AssemblyReference.cache
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.AssemblyInfoInputs.cache
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.AssemblyInfo.cs
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.csproj.CoreCompileInputs.cache
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.dll
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/refint/projeto.dll
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.pdb
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/projeto.genruntimeconfig.cache
+/home/marcos/Documentos/ia/projeto/obj/Debug/net6.0/ref/projeto.dll
